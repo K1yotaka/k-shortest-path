@@ -1,0 +1,10 @@
+# Node A,Node Z,Distance
+C,D,3
+C,E,2
+D,F,4
+E,D,1
+E,F,2
+E,G,3
+F,G,2
+F,H,1
+G,H,2
